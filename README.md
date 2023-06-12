@@ -34,6 +34,13 @@
 <p><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass Logo" width="100" height="100">
 </p>
 
-<p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munyabelden)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">Go ahead. Take a look at my code. 💻 #programming.</h3>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Munyabelden&" alt="hermon-1995" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Munyabelden&" alt="hermon-1995" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munyabelden)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Munyabelden&show_icons=true)  
