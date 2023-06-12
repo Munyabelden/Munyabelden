@@ -3,7 +3,7 @@
 ![Software Developer/Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software-stack+Software+Developer+;Charting+a+new+career+path...+;&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+;Charting+a+new+career+path...+;&center=true"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Munyabelden&label=Profile%20views&color=0e75b6&style=flat" alt="Munyabelden" /> </p>
