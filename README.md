@@ -33,7 +33,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyabelden&" alt="Munyabelden" /></p>
 </p>
 
-<h3 align="center">Go ahead. Take a look at my code. 💻 #programming.</h3>
+<h3 align="left">Take a look at my code. 💻 #programming.</h3>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Munyabelden&" alt="Munyabelden" /></p>
 
