@@ -34,7 +34,7 @@
 
 <h3 align="left">Take a look at my code. 💻 #programming.</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Munyabelden&" alt="Munyabelden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Munyabelden&" alt="Munyabelden" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Munyabelden&" alt="Munyabelden" /></p>
 
