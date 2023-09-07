@@ -1,6 +1,8 @@
 ### Hi there 👋, Belden Mugauri
 #### Software Developer
-![Software Developer/Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+   <p>
+       <img src="">
+   </p>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+;Charting+a+new+career+path...+;&center=true"></a>
