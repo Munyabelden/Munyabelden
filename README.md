@@ -1,7 +1,7 @@
-### Hi there 👋, Belden Mugauri
+### Hi there 👋, I'm Belden Mugauri
 #### Software Developer
    <p>
-       <img src="">
+       <img src="1681740420280.jpeg">
    </p>
 
 <p align="center">
